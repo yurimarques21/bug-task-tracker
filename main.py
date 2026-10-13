@@ -66,4 +66,3 @@ cadastrar_tarefa("Investigar bug crítico no checkout", "URGENTE")
 listar_tarefas()
 
 
-

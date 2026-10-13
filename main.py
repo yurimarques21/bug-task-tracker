@@ -65,4 +65,4 @@ cadastrar_tarefa("Investigar bug crítico no checkout", "URGENTE")
 
 listar_tarefas()
 
-
+#FUNÇÃO 03: atualizar status (updade)
